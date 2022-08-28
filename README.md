@@ -23,7 +23,7 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/co
 - [X] Pull request is submitted. (3 points)
 
 <!--- Update the following line with your grade --->
-I should get ( ) out of 20 on this assignment.
+I should get (20) out of 20 on this assignment.
 
 ## Self-Reflection:
 
