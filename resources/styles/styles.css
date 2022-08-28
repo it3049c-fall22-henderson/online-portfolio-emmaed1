@@ -1,0 +1,21 @@
+img {
+  height: 350px;
+  width: 275px;
+  display: inline;
+}
+
+.section {
+  width: 552px;
+  display: inline-block;
+}
+
+#personalBackground {
+  padding-top: 30px;
+  width: 800px;
+  float: right;
+  display: inline;
+}
+
+h2 {
+  color: rgb(173, 130, 255);
+}
